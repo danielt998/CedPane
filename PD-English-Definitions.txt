@@ -5,6 +5,7 @@
 䴉		ibis
 䴕		woodpecker
 一		one
+㊀		one
 🈩		one
 一一		one after another
 一丁不識		illiterate
@@ -403,6 +404,7 @@
 丁香		clove/lilac
 丁香花		lilac
 七		seven/7
+㊆		seven/7
 七上八下		at sixes and sevens
 七十		seventy/70
 七台河市		Qitaihe
@@ -483,6 +485,7 @@
 丈母		mother-in-law/wife's mother
 丈母娘		mother-in-law/wife's mother
 三		3/three
+㊂		3/three
 🈪		3/three
 🉁		3/three
 三K党		Ku Klux Klan
@@ -639,6 +642,7 @@
 三鮮		three fresh ingredients (in cooking)
 三鲜		three fresh ingredients (in cooking)
 上		on
+㊤		on
 上万		over ten thousand
 上上下下		high and low/old and young/everybody
 上下		about/up and down
@@ -858,6 +862,7 @@
 上齿		upper teeth
 上齿龈		upper alveolar ridge
 下		lower
+㊦		lower
 下一个		the next one/the next/next
 下一個		the next one/the next/next
 下一次		next
@@ -3194,6 +3199,7 @@
 丫頭		girl
 丫鬟		servant girl
 中		among
+㊥		among
 🈭		among
 中专		technical secondary school
 中世紀		medieval/Middle Ages
@@ -4039,7 +4045,8 @@
 乏力		fatigue
 乏力		fatigue
 乏味		tedious
-乐		music/laugh/happy
+乐	yuè	music
+乐	lè	happy
 乐不可支		overjoyed
 乐不可支		overjoyed
 乐不思蜀		indulge in pleasure and forget home and duty
@@ -4173,6 +4180,7 @@
 乜嘢		what? (Cantonese)
 乜斜		squint
 九		9/nine
+㊈		9/nine
 九九乘法表		multiplication table
 九十		ninety
 九台		Jiutai
@@ -4568,6 +4576,7 @@
 事项		item
 事體		affair
 二		2/two
+㊁		2/two
 🈔		2/two
 🉂		2/two
 二來		in the second place
@@ -4732,6 +4741,7 @@
 互連		interconnection
 亓		their
 五		5/five
+㊄		5/five
 五七干部学校		May 7 Cadre School
 五七幹部學校		May 7 Cadre School
 五代十国		Five Dynasties (907-960) and Ten Kingdoms (902-979)
@@ -6132,6 +6142,7 @@
 仿製品		imitation
 仿造		copy/counterfeit
 企		stand on tiptoe
+㊭		stand on tiptoe
 企业		company/business/enterprise
 企业内网路		intranet
 企业内网路		intranet
@@ -6313,6 +6324,7 @@
 伐		attack/fell/cut down
 伐木工人		lumberjack
 休		to rest
+㊡		to rest
 休伊特		Hewitt
 休会		adjourn
 休伯特		Hubert
@@ -9244,6 +9256,7 @@
 償還		repay/to repay
 儡		injure
 優		superior/excellent
+㊝		superior/excellent
 優伶		actor/actress
 優先		priority
 優劣		good and bad
@@ -10398,6 +10411,7 @@
 兩黨制		two-party system
 兩黨制		two-party system
 八		8/eight
+㊇		8/eight
 八九不离十		pretty close/about right
 八九不离十		pretty close/about right
 八九不離十		pretty close/about right
@@ -10724,6 +10738,7 @@
 公鹿		stag/buck
 公鹿		stag/buck
 六		six/6
+㊅		six/6
 六		six/6
 六亲		one's kin
 六亲		one's kin
@@ -11392,6 +11407,7 @@
 冗食		eating without working
 冗餘		redundancy/redundant
 写		write/to write
+㊢		write/to write
 写下		to write down/write down
 写作		writing
 写信		write a letter/to write a letter
@@ -14451,6 +14467,7 @@
 劲头		vigor/enthusiasm/strength
 劲风		gale/strong wind
 劳		toil/console
+㊘		toil/console
 劳伦斯		Lawrence
 劳倦		exhausted
 劳力		labour
@@ -15404,6 +15421,7 @@
 区域网路技术		LAN technology
 区处		handle
 医		doctor
+㊩		doctor
 医书		medical book
 医保		medical insurance
 医务		medical matters
@@ -15469,6 +15487,7 @@
 區處		handle
 區號		area code
 十		10/ten
+㊉		10/ten
 十一		11/eleven
 十一月		November
 十七		seventeen/17
@@ -15931,6 +15950,7 @@
 卓资		Zhuozi
 卓越		outstanding
 協		to help/assist/cooperate
+㊯		to help/assist/cooperate
 協作		coordination/cooperation
 協助		assist
 協同作用		synergy
@@ -16519,6 +16539,7 @@
 卮		goblet
 卯榫		mortise and tenon
 印		stamp
+㊞		stamp
 印信		official seal
 印制		print
 印制电路		printed circuit
@@ -18477,6 +18498,7 @@
 史詩		epic
 史诗		epic
 右		right/west
+㊨		right/west
 🈮		right/west
 右上		upper right
 右下		lower right
@@ -19064,6 +19086,7 @@
 同龄		of the same age
 同龄人		peer
 名		famous/name
+㊔		famous/name
 名下		name's account
 名为		be known as
 名义		nominal
@@ -19420,7 +19443,7 @@
 含苞待放		in bud
 含量		content
 含量		content
-听		obey
+听		hear/obey
 听不到		can't hear
 听不到		can't hear
 听之任之		take a laissez-faire attitude
@@ -21386,6 +21409,7 @@
 囚犯		prisoner/convict
 囚禁		to imprison/captivity/imprison
 四		four/4
+㊃		four/4
 四下		everywhere
 四下裡		all around
 四下裡		all around
@@ -22321,6 +22345,7 @@
 團體		organization/group/team
 圜		circle
 土		earth
+㊏		earth
 土产		local product
 土人		aborigine/native
 土匪		bandit
@@ -22753,7 +22778,7 @@
 地頭蛇		local bully
 地點		place/site
 圹		tomb
-场		market/stage
+场		stage/market
 场合		occasion/situation
 场地		place/site/space
 场所		place/location
@@ -23489,7 +23514,7 @@
 報頭		nameplate
 報館		newspaper office
 報館		newspaper office
-場		market/stage
+場		stage/market
 場合		occasion/situation
 場地		place/site/space
 場所		place/location
@@ -24729,6 +24754,7 @@
 多黨		multiparty
 多黨選舉		multiparty election
 夜		night
+㊰		night
 夜來香		tuberose
 夜來香		tuberose
 夜光虫		noctiluca
@@ -26371,6 +26397,7 @@
 奮進		advance bravely
 奮鬥		to struggle/struggle/strive
 女		woman/daughter/female
+㊛		woman/daughter/female
 女		woman/daughter/female
 女主人		hostess
 女主人		hostess
@@ -27672,6 +27699,7 @@
 孤鸟		lone bird
 孥		child
 学		imitate
+㊫		imitate
 学业		schoolwork
 学乖		learn from experience
 学习		to study/to learn
@@ -28262,6 +28290,7 @@
 宕		dissipated
 宕昌		Dangchang
 宗		clan
+㊪		clan
 宗主权		suzerainty
 宗主權		suzerainty
 宗教		religion
@@ -29511,6 +29540,7 @@
 寸步不離		closely
 寸步不離		closely
 对		to/OK
+対		to/OK
 对上		fit one into the other
 对不上		disagree
 对不上		disagree
@@ -31519,6 +31549,7 @@
 工齡		seniority/length of service
 工龄		seniority/length of service
 左		left
+㊧		left
 🈬		left
 左上		upper left
 左下		lower left
@@ -41057,6 +41088,7 @@
 捫		to cover/lay hands on
 捭		to open/separate/spread out
 据		occupy/according to/seize
+拠		occupy/according to/seize
 据估计		according to estimates
 据实		according to the facts
 据悉		according to reports
@@ -45225,6 +45257,7 @@
 既而		later
 既而		later
 日		day/sun/daily
+㊐		day/sun/daily
 日中		midday
 日产		Nissan
 日人		the Japanese
@@ -46907,6 +46940,7 @@
 會面		to meet with/to meet
 會黨		anti-Qing secret societies
 月		month/monthly/moon
+㊊		month/monthly/moon
 🈷		month/monthly/moon
 月下老人		matchmaker
 月下老人		matchmaker
@@ -46982,6 +47016,7 @@
 月餅		moon cake
 月饼		moon cake
 有		to have
+㊒		to have
 🈶		to have
 有一些		rather/some/somewhat
 有一次		once
@@ -47507,6 +47542,7 @@
 朦		deceive
 朦朧		obscure
 木		wooden
+㊍		wooden
 木乃伊		mummy
 木乃伊化		mummification
 木偶		puppet
@@ -49084,6 +49120,7 @@
 栩		Quercus serrata
 栩栩如生		like the real thing
 株		trunk/stem
+㊑		trunk/stem
 株洲		Zhuzhou
 株洲市		Zhuzhou
 株距		spacing
@@ -50219,10 +50256,14 @@
 槿		Hibiscus syriacus
 樁		stake/pile
 樁構棧道		pile trestle
-樂		music/laugh/happy
-樂		music/laugh/happy
-樂		music/laugh/happy
-樂		music/laugh/happy
+樂	yuè	music
+樂	yuè	music
+樂	yuè	music
+樂	yuè	music
+樂	lè	happy
+樂	lè	happy
+樂	lè	happy
+樂	lè	happy
 樂不可支		overjoyed
 樂不可支		overjoyed
 樂不可支		overjoyed
@@ -51220,6 +51261,7 @@
 止血棉塞		tampon
 止血棉塞		tampon
 正		just
+㊣		just
 正中		centre
 正中央		midpoint
 正中要害		hit the nail on the head
@@ -52671,6 +52713,7 @@
 氲		heavy atmosphere
 氳		heavy atmosphere
 水		water/river/liquid
+㊌		water/river/liquid
 水上		aquatic
 水上飛機		seaplane
 水上飞机		seaplane
@@ -54275,6 +54318,7 @@
 泥鳅		loach
 泥鳅		loach
 注		note
+㊟		note
 注入		pour in
 注册		to register/register
 注册商标		registered trademark
@@ -58317,6 +58361,7 @@
 灤平		Luanping
 灤縣		Luan county
 火		fire
+㊋		fire
 火候		crucial moment
 火儿		fire/angry
 火光		flame/blaze
@@ -60424,6 +60469,7 @@
 牵绊		impede
 牵连		implicate
 特		especially/special
+㊕		especially/special
 特产		special local product
 特价		special price
 特伦顿		Trenton
@@ -63020,6 +63066,7 @@
 电饭锅		electric rice cooker
 电鳗		electric eel
 男		male/man
+㊚		male/man
 男中音		baritone
 男主角		leading actor
 男人		men/man
@@ -64938,6 +64985,7 @@
 盡量		as much as possible
 盡頭		extremity/end
 監		to supervise
+㊬		to supervise
 監利		Jianli
 監利		Jianli
 監外執行		serve (a sentence) outside prison
@@ -67084,6 +67132,7 @@
 礼金		cash gift
 礼金		cash gift
 社		club/society/agency
+㊓		club/society/agency
 社		club/society/agency
 社交		social contact
 社交		social contact
@@ -67317,6 +67366,7 @@
 祛寒		dispel cold
 祜		celestial blessing
 祝		wish
+㊗		wish
 祝		wish
 祝发		cut one's hair
 祝发		cut one's hair
@@ -68258,6 +68308,7 @@
 秕子		blighted grain
 秕糠		chaff/worthless stuff
 秘		secret/secretary
+㊙		secret/secretary
 秘书		secretary
 秘书长		secretary-general
 秘传		esoteric
@@ -68493,7 +68544,8 @@
 稠		thick/dense
 稠密		dense
 稣		revive
-種		plant
+種	zhòng	plant
+種	zhǒng	type
 種地		till
 種子		seed
 種子選手		seeded player
@@ -75567,7 +75619,7 @@
 職業道德		professional ethics
 職能		function
 職責		duty
-聽		obey
+聽		hear/obey
 聽不到		can't hear
 聽不到		can't hear
 聽之任之		take a laissez-faire attitude
@@ -86464,6 +86516,7 @@
 負面		negative
 負鼠		opossum
 財		money/riches/wealth
+㊖		money/riches/wealth
 財主		moneybags/rich man
 財力		financial resources
 財力		financial resources
@@ -86751,6 +86804,7 @@
 賄賂		bribe
 賅		full/complete
 資		resource
+㊮		resource
 資中		Zizhong
 資信		capital and credit
 資俸		salary/pay
@@ -90109,7 +90163,8 @@
 返老還童		rejuvenate
 返还		return
 返還		return
-还		in addition
+还	hái	in addition; still
+还	huán	return (sthg)
 还债		repay a debt
 还击		return fire/to hit back
 还原		restore
@@ -91835,6 +91890,7 @@
 遨		make excursion
 遨游		roam
 適		to fit/suitable
+㊜		to fit/suitable
 適中		moderate
 適可而止		stop before going too far
 適合		to fit/fit/suit
@@ -92113,7 +92169,8 @@
 邃密		deep/profound
 邃戶		forbidding entrance to a large, quiet house
 邃户		forbidding entrance to a large, quiet house
-還		in addition
+還	hái	in addition; still
+還	huán	return (sthg)
 還債		repay a debt
 還原		restore
 還原劑		reducing agent
@@ -93387,6 +93444,7 @@
 釐升		centiliter
 釐米		centimeter
 金		golden
+㊎		golden
 金		golden
 金三角		Golden Triangle
 金三角		Golden Triangle
@@ -99519,6 +99577,7 @@
 頃者		just now/a short while ago
 頃者		just now/a short while ago
 項		term/sum (of money)
+㊠		term/sum (of money)
 項圈		necklace
 項城		Xiangcheng
 項城市		Xiangcheng
@@ -104349,3 +104408,119 @@
 龟甲		tortoiseshell
 龟缩		hole up
 龟趺		tortoise pedestal
+规划		plan
+治安		order (in society)
+外族		foreign
+讚美		praise
+男丁		men
+扎营		camp
+息怒		calm down
+大河		big river
+民用		civilian (use)
+定制		custom order
+戒指		ring (on finger)
+下半		2nd half
+牛群		herd
+誉为		to honour
+电器		electrical appliance
+金额		amount (of money)
+周期		period
+林区		forest
+估算		rough guess
+大户		wealthy
+近代		modern age
+欢度		rejoice
+悠久		long time
+挨家		house to house
+免受		exempt from
+水量		water amount
+液量		liquid amount
+救治		treat
+保密		keep secret
+团团		around
+如意		as you like
+挨户		door to door
+而言		re
+人造		artificial
+如期		on time
+唯独		just
+巨型		very big
+一见如故		old friends from 1 meeting
+共青团=Communist Youth League
+自高自大		self-exalted
+记忆力		memory
+牵挂		concerned about
+义不容辞		responsible thing
+弥天大谎		big lie
+作呕		repulsive
+冒名		to impostor
+心灰意冷		lose heart
+赛程		race (event)
+呵护		protect (divinely)
+突如其来		suddenly
+自省		ask oneself
+争宠		vie for favour
+好多		many
+费神		troublesome
+因材施教		train according to level
+丧葬		hold a funeral
+智士		wise men
+谋算		intentions; plots
+历朝		successive dynasties
+年事		aged
+中用		useful
+慷慨解囊		generous
+有始有终		finish what you start
+挺身		stand erect
+昂首		lift head
+直视		look straight at
+一席之地		place (for person)
+开来		drive here
+苗		blade; seedling
+随身		take; carry
+力行		act; do
+聚餐		gather for a meal
+备课		prepare a lesson
+大好		good
+見方		square
+绝版		out of print
+励志		self-help
+激增		surge
+耳熟		sound familiar
+凝重		solemn
+期数		issue number
+爱侣		lover
+合得来		get along
+寡妇们		widows
+老挝语		Laotian
+库尔德语		Kurdish
+一派胡言		nonsense
+功不可没		vital to success
+化悲为喜		grief to joy
+清白无瑕		pure
+化学元素		chemical element
+风风雨雨		rumours
+孤军作战		fight alone
+将心比心		show fellow feeling
+乐于助人		happy to help
+窃窃私语		whisper
+晴天霹雳		unexpected
+山盟海誓		marriage vows
+切磋		mutually consult
+心惊胆战		fearful
+一无所有		with nothing
+奇耻大辱		shame
+成命		decreed
+伸冤		get justice
+花纹		pattern
+实用性		usefulness
+无花果树		fig tree
+配乐		background music
+胆战心惊		fearful
+怒火中烧		angry
+停手		stop
+自吹自擂		blow own trumpet
+踩		step
+假话		lie
+铭记		remember
+强盛		strong
