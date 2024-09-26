@@ -5,6 +5,7 @@
 䴉		ibis
 䴕		woodpecker
 一		one
+㊀		one
 🈩		one
 一一		one after another
 一丁不識		illiterate
@@ -403,6 +404,7 @@
 丁香		clove/lilac
 丁香花		lilac
 七		seven/7
+㊆		seven/7
 七上八下		at sixes and sevens
 七十		seventy/70
 七台河市		Qitaihe
@@ -483,6 +485,7 @@
 丈母		mother-in-law/wife's mother
 丈母娘		mother-in-law/wife's mother
 三		3/three
+㊂		3/three
 🈪		3/three
 🉁		3/three
 三K党		Ku Klux Klan
@@ -639,6 +642,7 @@
 三鮮		three fresh ingredients (in cooking)
 三鲜		three fresh ingredients (in cooking)
 上		on
+㊤		on
 上万		over ten thousand
 上上下下		high and low/old and young/everybody
 上下		about/up and down
@@ -858,6 +862,7 @@
 上齿		upper teeth
 上齿龈		upper alveolar ridge
 下		lower
+㊦		lower
 下一个		the next one/the next/next
 下一個		the next one/the next/next
 下一次		next
@@ -3194,6 +3199,7 @@
 丫頭		girl
 丫鬟		servant girl
 中		among
+㊥		among
 🈭		among
 中专		technical secondary school
 中世紀		medieval/Middle Ages
@@ -3872,14 +3878,14 @@
 主辦國		host country
 主辦權		the right to host
 主音		keynote/tonic/vowel
-主頁		home page
+主頁		home page/homepage
 主題		theme
 主題歌		theme song
 主顧		customer/client
 主顯節		Epiphany
 主顯節		Epiphany
 主顯節		Epiphany
-主页		home page
+主页		home page/homepage
 主顾		customer/client
 主题		theme
 主题歌		theme song
@@ -4039,7 +4045,8 @@
 乏力		fatigue
 乏力		fatigue
 乏味		tedious
-乐		music/laugh/happy
+乐	yuè	music
+乐	lè	happy
 乐不可支		overjoyed
 乐不可支		overjoyed
 乐不思蜀		indulge in pleasure and forget home and duty
@@ -4173,6 +4180,7 @@
 乜嘢		what? (Cantonese)
 乜斜		squint
 九		9/nine
+㊈		9/nine
 九九乘法表		multiplication table
 九十		ninety
 九台		Jiutai
@@ -4568,6 +4576,7 @@
 事项		item
 事體		affair
 二		2/two
+㊁		2/two
 🈔		2/two
 🉂		2/two
 二來		in the second place
@@ -4732,6 +4741,7 @@
 互連		interconnection
 亓		their
 五		5/five
+㊄		5/five
 五七干部学校		May 7 Cadre School
 五七幹部學校		May 7 Cadre School
 五代十国		Five Dynasties (907-960) and Ten Kingdoms (902-979)
@@ -6132,6 +6142,7 @@
 仿製品		imitation
 仿造		copy/counterfeit
 企		stand on tiptoe
+㊭		stand on tiptoe
 企业		company/business/enterprise
 企业内网路		intranet
 企业内网路		intranet
@@ -6313,6 +6324,7 @@
 伐		attack/fell/cut down
 伐木工人		lumberjack
 休		to rest
+㊡		to rest
 休伊特		Hewitt
 休会		adjourn
 休伯特		Hubert
@@ -7717,8 +7729,8 @@
 便難		retort with challenging questions
 便鞋		slippers/cloth shoes
 便鞋		slippers/cloth shoes
-便饭 biànfàn gloss
-便饭 biànfàn gloss
+便饭		simple meal
+便饭		simple meal
 俁		big
 係		be/relate to
 係數		coefficient
@@ -9244,6 +9256,7 @@
 償還		repay/to repay
 儡		injure
 優		superior/excellent
+㊝		superior/excellent
 優伶		actor/actress
 優先		priority
 優劣		good and bad
@@ -10398,6 +10411,7 @@
 兩黨制		two-party system
 兩黨制		two-party system
 八		8/eight
+㊇		8/eight
 八九不离十		pretty close/about right
 八九不离十		pretty close/about right
 八九不離十		pretty close/about right
@@ -10724,6 +10738,7 @@
 公鹿		stag/buck
 公鹿		stag/buck
 六		six/6
+㊅		six/6
 六		six/6
 六亲		one's kin
 六亲		one's kin
@@ -11392,6 +11407,7 @@
 冗食		eating without working
 冗餘		redundancy/redundant
 写		write/to write
+㊢		write/to write
 写下		to write down/write down
 写作		writing
 写信		write a letter/to write a letter
@@ -14451,6 +14467,7 @@
 劲头		vigor/enthusiasm/strength
 劲风		gale/strong wind
 劳		toil/console
+㊘		toil/console
 劳伦斯		Lawrence
 劳倦		exhausted
 劳力		labour
@@ -15404,6 +15421,7 @@
 区域网路技术		LAN technology
 区处		handle
 医		doctor
+㊩		doctor
 医书		medical book
 医保		medical insurance
 医务		medical matters
@@ -15469,6 +15487,7 @@
 區處		handle
 區號		area code
 十		10/ten
+㊉		10/ten
 十一		11/eleven
 十一月		November
 十七		seventeen/17
@@ -15931,6 +15950,7 @@
 卓资		Zhuozi
 卓越		outstanding
 協		to help/assist/cooperate
+㊯		to help/assist/cooperate
 協作		coordination/cooperation
 協助		assist
 協同作用		synergy
@@ -16519,6 +16539,7 @@
 卮		goblet
 卯榫		mortise and tenon
 印		stamp
+㊞		stamp
 印信		official seal
 印制		print
 印制电路		printed circuit
@@ -18477,6 +18498,7 @@
 史詩		epic
 史诗		epic
 右		right/west
+㊨		right/west
 🈮		right/west
 右上		upper right
 右下		lower right
@@ -19064,6 +19086,7 @@
 同龄		of the same age
 同龄人		peer
 名		famous/name
+㊔		famous/name
 名下		name's account
 名为		be known as
 名义		nominal
@@ -19420,7 +19443,7 @@
 含苞待放		in bud
 含量		content
 含量		content
-听		obey
+听		hear/obey
 听不到		can't hear
 听不到		can't hear
 听之任之		take a laissez-faire attitude
@@ -21386,6 +21409,7 @@
 囚犯		prisoner/convict
 囚禁		to imprison/captivity/imprison
 四		four/4
+㊃		four/4
 四下		everywhere
 四下裡		all around
 四下裡		all around
@@ -22321,6 +22345,7 @@
 團體		organization/group/team
 圜		circle
 土		earth
+㊏		earth
 土产		local product
 土人		aborigine/native
 土匪		bandit
@@ -22370,7 +22395,7 @@
 土石流		mudslide
 土老帽		yokel
 土老帽		yokel
-土耳其		Turkey
+土耳其		Türkiye; Turkey
 土耳其語		Turkish (language)
 土耳其语		Turkish (language)
 土著		native
@@ -22753,7 +22778,7 @@
 地頭蛇		local bully
 地點		place/site
 圹		tomb
-场		market/stage
+场		stage/market
 场合		occasion/situation
 场地		place/site/space
 场所		place/location
@@ -22808,8 +22833,8 @@
 坏疽		gangrene
 坏蛋		scoundrel
 坏血病		scurvy
-坐		take a seat/to sit/sit
-坐下		sit down/to sit down
+坐		sit
+坐下		sit down
 坐下去		sit down
 坐商		shopkeeper
 坐垫		cushion
@@ -23489,7 +23514,7 @@
 報頭		nameplate
 報館		newspaper office
 報館		newspaper office
-場		market/stage
+場		stage/market
 場合		occasion/situation
 場地		place/site/space
 場所		place/location
@@ -24729,6 +24754,7 @@
 多黨		multiparty
 多黨選舉		multiparty election
 夜		night
+㊰		night
 夜來香		tuberose
 夜來香		tuberose
 夜光虫		noctiluca
@@ -25756,6 +25782,7 @@
 夫人		Mrs.
 夫妇		husband and wife
 夫妻		husband and wife
+夫妻们		husband and wife
 夫婦		husband and wife
 夫子		pedant
 夫权		authority over the household
@@ -26371,6 +26398,7 @@
 奮進		advance bravely
 奮鬥		to struggle/struggle/strive
 女		woman/daughter/female
+㊛		woman/daughter/female
 女		woman/daughter/female
 女主人		hostess
 女主人		hostess
@@ -27672,6 +27700,7 @@
 孤鸟		lone bird
 孥		child
 学		imitate
+㊫		imitate
 学业		schoolwork
 学乖		learn from experience
 学习		to study/to learn
@@ -27687,6 +27716,7 @@
 学区		school district
 学名		scientific name
 学员		student
+学员们		students
 学坏		follow bad examples
 学堂		school
 学士		bachelor
@@ -28262,6 +28292,7 @@
 宕		dissipated
 宕昌		Dangchang
 宗		clan
+㊪		clan
 宗主权		suzerainty
 宗主權		suzerainty
 宗教		religion
@@ -29511,6 +29542,7 @@
 寸步不離		closely
 寸步不離		closely
 对		to/OK
+対		to/OK
 对上		fit one into the other
 对不上		disagree
 对不上		disagree
@@ -30211,7 +30243,7 @@
 小百科全书		micropedia
 小百科全書		micropedia
 小百科全書		micropedia
-小的		I
+小的		small
 小盡		lunar month of 29 days
 小看		to look down on
 小睡		doze/nap
@@ -31519,6 +31551,7 @@
 工齡		seniority/length of service
 工龄		seniority/length of service
 左		left
+㊧		left
 🈬		left
 左上		upper left
 左下		lower left
@@ -37405,8 +37438,8 @@
 感情用事		act impetuously
 感想		impression/reflections/thoughts
 感愤		indignant
-感慨                 excited
-感慨                 excited
+感慨		excited
+感慨		excited
 感憤		indignant
 感應		reaction/interaction
 感應器		inductor
@@ -41057,6 +41090,7 @@
 捫		to cover/lay hands on
 捭		to open/separate/spread out
 据		occupy/according to/seize
+拠		occupy/according to/seize
 据估计		according to estimates
 据实		according to the facts
 据悉		according to reports
@@ -43682,7 +43716,7 @@
 数字电视		digital television
 数字网		digital network
 数字通信		digital communications
-数学		mathematics
+数学		mathematics/math
 数学家		mathematician
 数小时		several hours
 数年		several years
@@ -43862,8 +43896,8 @@
 數字電視		digital television
 數字電視		digital television
 數字電視		digital television
-數學		mathematics
-數學		mathematics
+數學		mathematics/math
+數學		mathematics/math
 數學家		mathematician
 數學家		mathematician
 數年		several years
@@ -45225,6 +45259,7 @@
 既而		later
 既而		later
 日		day/sun/daily
+㊐		day/sun/daily
 日中		midday
 日产		Nissan
 日人		the Japanese
@@ -46907,6 +46942,7 @@
 會面		to meet with/to meet
 會黨		anti-Qing secret societies
 月		month/monthly/moon
+㊊		month/monthly/moon
 🈷		month/monthly/moon
 月下老人		matchmaker
 月下老人		matchmaker
@@ -46982,6 +47018,7 @@
 月餅		moon cake
 月饼		moon cake
 有		to have
+㊒		to have
 🈶		to have
 有一些		rather/some/somewhat
 有一次		once
@@ -47507,6 +47544,7 @@
 朦		deceive
 朦朧		obscure
 木		wooden
+㊍		wooden
 木乃伊		mummy
 木乃伊化		mummification
 木偶		puppet
@@ -49084,6 +49122,7 @@
 栩		Quercus serrata
 栩栩如生		like the real thing
 株		trunk/stem
+㊑		trunk/stem
 株洲		Zhuzhou
 株洲市		Zhuzhou
 株距		spacing
@@ -50219,10 +50258,14 @@
 槿		Hibiscus syriacus
 樁		stake/pile
 樁構棧道		pile trestle
-樂		music/laugh/happy
-樂		music/laugh/happy
-樂		music/laugh/happy
-樂		music/laugh/happy
+樂	yuè	music
+樂	yuè	music
+樂	yuè	music
+樂	yuè	music
+樂	lè	happy
+樂	lè	happy
+樂	lè	happy
+樂	lè	happy
 樂不可支		overjoyed
 樂不可支		overjoyed
 樂不可支		overjoyed
@@ -51220,6 +51263,7 @@
 止血棉塞		tampon
 止血棉塞		tampon
 正		just
+㊣		just
 正中		centre
 正中央		midpoint
 正中要害		hit the nail on the head
@@ -52671,6 +52715,7 @@
 氲		heavy atmosphere
 氳		heavy atmosphere
 水		water/river/liquid
+㊌		water/river/liquid
 水上		aquatic
 水上飛機		seaplane
 水上飞机		seaplane
@@ -54275,6 +54320,7 @@
 泥鳅		loach
 泥鳅		loach
 注		note
+㊟		note
 注入		pour in
 注册		to register/register
 注册商标		registered trademark
@@ -58317,6 +58363,7 @@
 灤平		Luanping
 灤縣		Luan county
 火		fire
+㊋		fire
 火候		crucial moment
 火儿		fire/angry
 火光		flame/blaze
@@ -60424,6 +60471,7 @@
 牵绊		impede
 牵连		implicate
 特		especially/special
+㊕		especially/special
 特产		special local product
 特价		special price
 特伦顿		Trenton
@@ -63020,6 +63068,7 @@
 电饭锅		electric rice cooker
 电鳗		electric eel
 男		male/man
+㊚		male/man
 男中音		baritone
 男主角		leading actor
 男人		men/man
@@ -64938,6 +64987,7 @@
 盡量		as much as possible
 盡頭		extremity/end
 監		to supervise
+㊬		to supervise
 監利		Jianli
 監利		Jianli
 監外執行		serve (a sentence) outside prison
@@ -65990,8 +66040,10 @@
 瞰望		overlook
 瞰臨		watch from above/overlook
 瞰臨		watch from above/overlook
-瞳		pupil of the eye
+细语		whisper
+瞳		pupil
 瞳孔		pupil
+瞳仁		pupil
 瞵		stare
 瞻		gaze
 瞻仰		look at with reverence/to
@@ -67084,6 +67136,7 @@
 礼金		cash gift
 礼金		cash gift
 社		club/society/agency
+㊓		club/society/agency
 社		club/society/agency
 社交		social contact
 社交		social contact
@@ -67317,6 +67370,7 @@
 祛寒		dispel cold
 祜		celestial blessing
 祝		wish
+㊗		wish
 祝		wish
 祝发		cut one's hair
 祝发		cut one's hair
@@ -68258,6 +68312,7 @@
 秕子		blighted grain
 秕糠		chaff/worthless stuff
 秘		secret/secretary
+㊙		secret/secretary
 秘书		secretary
 秘书长		secretary-general
 秘传		esoteric
@@ -68493,7 +68548,8 @@
 稠		thick/dense
 稠密		dense
 稣		revive
-種		plant
+種	zhòng	plant
+種	zhǒng	type
 種地		till
 種子		seed
 種子選手		seeded player
@@ -69469,6 +69525,9 @@
 第二声		rising tone
 第二次世界大战		World War II
 第二次世界大戰		World War II
+第一次世界大战		World War I
+第一次世界大戰		World War I
+二战		World War II
 第二產業		secondary industry
 第二聲		rising tone
 第五縱隊		fifth column
@@ -74289,7 +74348,7 @@
 美拉尼西亚		Melanesia
 美拉尼西亞		Melanesia
 美拉尼西亞		Melanesia
-美援		U
+美援		US aid
 美方		the US side
 美景		beautiful scenery
 美术		painting/art/fine arts
@@ -75567,7 +75626,7 @@
 職業道德		professional ethics
 職能		function
 職責		duty
-聽		obey
+聽		hear/obey
 聽不到		can't hear
 聽不到		can't hear
 聽之任之		take a laissez-faire attitude
@@ -78261,7 +78320,7 @@
 芯		core/wick/chip
 芯片		chip
 芰		Trapa natans/water caltrop
-花		flower/to spend
+花		spend/flower
 花丛		flowering shrub
 花俏		fancy
 花光		spend all one's money
@@ -84721,7 +84780,7 @@
 謙讓		modestly decline
 謙辭		self-deprecatory expression
 謙遜		modest/humble/modesty
-講		be particular about
+講		speak
 講價		bargain
 講到		talk of/about
 講和		make peace
@@ -85361,7 +85420,7 @@
 记起		recall/recollect
 记载		record/to write down
 记述		narrate
-讲		be particular about
+讲		speak
 讲义气		to be loyal
 讲习会		seminar
 讲价		bargain
@@ -85654,6 +85713,8 @@
 诚意		good faith/sincerity
 诚挚		cordial/sincere
 诚然		really
+确确实实		really
+研经		study scripture
 诛		punish/execute
 诛戮		put to death
 诛戮		put to death
@@ -85853,6 +85914,7 @@
 说白了		to speak frankly
 说白了		to speak frankly
 说笑		chat and laugh
+说说笑笑		chat and laugh
 说话		to speak
 说说		to say
 说谎		tell a lie
@@ -86464,6 +86526,7 @@
 負面		negative
 負鼠		opossum
 財		money/riches/wealth
+㊖		money/riches/wealth
 財主		moneybags/rich man
 財力		financial resources
 財力		financial resources
@@ -86751,6 +86814,7 @@
 賄賂		bribe
 賅		full/complete
 資		resource
+㊮		resource
 資中		Zizhong
 資信		capital and credit
 資俸		salary/pay
@@ -90109,7 +90173,8 @@
 返老還童		rejuvenate
 返还		return
 返還		return
-还		in addition
+还	hái	in addition; still
+还	huán	return (sthg)
 还债		repay a debt
 还击		return fire/to hit back
 还原		restore
@@ -91835,6 +91900,7 @@
 遨		make excursion
 遨游		roam
 適		to fit/suitable
+㊜		to fit/suitable
 適中		moderate
 適可而止		stop before going too far
 適合		to fit/fit/suit
@@ -92113,7 +92179,8 @@
 邃密		deep/profound
 邃戶		forbidding entrance to a large, quiet house
 邃户		forbidding entrance to a large, quiet house
-還		in addition
+還	hái	in addition; still
+還	huán	return (sthg)
 還債		repay a debt
 還原		restore
 還原劑		reducing agent
@@ -93387,6 +93454,7 @@
 釐升		centiliter
 釐米		centimeter
 金		golden
+㊎		golden
 金		golden
 金三角		Golden Triangle
 金三角		Golden Triangle
@@ -95470,6 +95538,7 @@
 长跑		long-distance run
 长距离		long distance
 长辈		older generation
+长辈们		older generation
 长达		lengthen out to
 长进		make progress
 长远		long-term/long-range
@@ -99519,6 +99588,7 @@
 頃者		just now/a short while ago
 頃者		just now/a short while ago
 項		term/sum (of money)
+㊠		term/sum (of money)
 項圈		necklace
 項城		Xiangcheng
 項城市		Xiangcheng
@@ -101146,10 +101216,10 @@
 首长		senior official
 首音誤置		spoonerism
 首音误置		spoonerism
-首頁		title page/first page
+首頁		title page/first page/homepage
 首領		chief/chieftain
 首領		chief/chieftain
-首页		title page/first page
+首页		title page/first page/homepage
 首领		chief/chieftain
 首飾		jewelry
 首饰		jewelry
@@ -103802,6 +103872,7 @@
 黑漆		black
 黑潮		Kuroshio
 黑炭		charcoal
+火炭		burning charcoal
 黑熊		black bear
 黑猩猩		chimpanzee
 黑痣		mole
@@ -104108,6 +104179,14 @@
 齐集		assemble
 齑粉		fine powder
 齒		tooth
+跤		heel
+沦		sink down
+砰		bang
+填		fill
+喻		illustrate
+刻上		cut
+己见		own opinion
+人意		wish
 齒孔		perforations
 齒槽		alveolus
 齒槽音		alveolar
@@ -104349,3 +104428,933 @@
 龟甲		tortoiseshell
 龟缩		hole up
 龟趺		tortoise pedestal
+规划		plan
+治安		order (in society)
+外族		foreign
+讚美		praise
+男丁		men
+扎营		camp
+息怒		calm down
+大河		big river
+民用		civilian (use)
+定制		custom order
+戒指		ring (on finger)
+下半		2nd half
+牛群		herd
+誉为		to honour
+电器		electrical appliance
+金额		amount (of money)
+周期		period
+林区		forest
+估算		rough guess
+大户		wealthy
+近代		modern age
+欢度		rejoice
+悠久		long time
+挨家		house to house
+免受		exempt from
+水量		water amount
+液量		liquid amount
+救治		treat
+保密		keep secret
+团团		around
+如意		as you like
+挨户		door to door
+而言		re
+人造		artificial
+如期		on time
+唯独		just
+巨型		very big
+一见如故		old friends from 1 meeting
+共青团		Communist Youth League
+自高自大		self-exalted
+记忆力		memory
+牵挂		concerned about
+义不容辞		responsible thing
+弥天大谎		big lie
+作呕		repulsive
+冒名		to impostor
+心灰意冷		lose heart
+赛程		race (event)
+呵护		protect (divinely)
+突如其来		suddenly
+自省		ask oneself
+争宠		vie for favour
+好多		many
+费神		troublesome
+因材施教		train according to level
+丧葬		hold a funeral
+智士		wise men
+谋算		intentions; plots
+历朝		successive dynasties
+年事		aged
+中用		useful
+慷慨解囊		generous
+有始有终		finish what you start
+挺身		stand erect
+昂首		lift head
+直视		look straight at
+一席之地		place (for person)
+开来		drive here
+苗		blade; seedling
+随身		take; carry
+力行		act; do
+聚餐		gather for a meal
+备课		prepare a lesson
+大好		good
+見方		square
+绝版		out of print
+励志		self-help
+激增		surge
+耳熟		sound familiar
+凝重		solemn
+期数		issue number
+爱侣		lover
+合得来		get along
+寡妇们		widows
+老挝语		Laotian
+库尔德语		Kurdish
+一派胡言		nonsense
+功不可没		vital to success
+化悲为喜		grief to joy
+清白无瑕		pure
+化学元素		chemical element
+风风雨雨		rumours
+孤军作战		fight alone
+将心比心		show fellow feeling
+乐于助人		happy to help
+窃窃私语		whisper
+晴天霹雳		unexpected
+山盟海誓		marriage vows
+切磋		mutually consult
+心惊胆战		fearful
+一无所有		with nothing
+奇耻大辱		shame
+成命		decreed
+伸冤		get justice
+花纹		pattern
+实用性		usefulness
+无花果树		fig tree
+配乐		background music
+胆战心惊		fearful
+怒火中烧		angry
+停手		stop
+自吹自擂		blow own trumpet
+踩		step
+扛		lift
+假话		lie
+铭记		remember
+强盛		strong
+推托		make excuse
+同乡		people of same town
+悔意		regret
+翻涌		stir
+报案		report to authorities
+知情		know the facts
+好事		fine thing; good deed
+闽南		S.Fujian
+资质		talent
+穷困		poor
+离家		leave home
+宝剑		steel blade; good sword
+家规		house rule
+体弱		weaken
+婚后		after marriage
+长凳		bench
+航海		navigation at sea
+钱盒		moneybox
+白板		whiteboard
+橱窗		(shop) window
+出海		go to sea
+点滴		a little
+倒进		pour in
+废气		waste gas
+奋起		fight
+美食		delicacies
+演播		broadcast
+对岸		opposite bank
+大败		defeat
+接手		assist; take on
+侍卫		bearer
+通勤		commute
+心窝		(fig.) heart
+验证		verify
+狱警		prison guard
+争强		compete
+编成		compiled
+槌子		hammer
+出头		beginning
+对错		right and wrong
+当成		take as
+坏话		negative comments
+慌忙		rush
+姐夫		brother in law (on older side)
+留言		leave a message
+开去		out
+劳心		work hard
+茫然		uncertain
+满腔		full
+全程		whole (process)
+让座		give up seat
+人证		testimony
+嫂嫂		sister in law (on older side)
+踏实		stable
+卧病		lie sick
+汹汹		violent
+显要		prominent
+学历		schooling
+行乐		seek pleasure
+虚心		modest
+一举		at a stroke
+瘀青		bruise
+杂乱		chaotic
+便饭		simple food
+病征		symptom
+補助		subsidise
+城区		city area
+陈旧		old
+触礁		drift onto rocks
+出差		business trip
+充电		charge
+催逼		push (fig.)
+刺眼		dazzle
+从宽		with restraint; lenient
+寸步		small step
+存书		book stock
+参照		see
+惦记		keep in mind
+刁钻		cunning
+叮咛		warn
+放行		let pass
+发指		angry
+烦乱		muddled
+富余		surplus
+覆辙		bad decision
+非分		improper
+过激		excessive
+归功		credit
+寡居		widowed
+谷粒		grain
+环游		tour
+含冤		unjust(ly)
+厚待		kindly treat
+海燕		sea swallow
+轰然		bang
+昏君		selfish king
+旧称		formerly called
+旧事		old thing
+进出		enter and exit
+机票		plane ticket
+拘押		detain
+矿坑		mine pit
+刊载		publish
+考证		verify
+留待		keep for
+流水		running water
+滥杀		kill
+雷霆		thunder
+历书		almanac
+利诱		lure
+缅怀		remember
+迷津		maze
+谋臣		counsellor
+纳谏		heed warning
+难熬		difficult to endure
+难逃		hard to avoid
+偏袒		show favouritism to
+盘查		interrogate
+强项		strongpoint
+切除		cut out
+枪毙		shoot
+枪声		gunshot
+浅显		simple; clear
+缺憾		shortcoming
+情谊		friendship
+群居		live in groups
+起飞		take off
+请假		ask for time off
+认错		acknowledge mistake
+肉店		butcher's
+入场		enter venue
+入睡		fall asleep
+视讯		video
+食宿		food and shelter
+树荫		tree shade
+生锈		rust
+深挚		sincere
+失事		crash
+施压		to pressure
+丧礼		funeral
+添置		buy
+退伍		complete military service
+体型		body size
+无从		can't
+贤德		kind
+相投		get along
+相向		face other
+选修		choose course
+心仪		admire
+怨偶		hateful couple
+一空		whole
+一早		dawn
+用力		exert
+佣人		servant
+预留		reserve
+野驴		wild donkey
+拥立		make king
+引路		lead the way
+站岗		stand guard
+阵地		(battle) ground
+征婚		dating advertisement
+纵情		as much as one likes
+恶语		slander
+恩怨		old feelings
+施暴		assault; violence
+海面		on the sea
+量瓶		measuring bottle
+下怀		desire
+怨愤		resentment
+淫行		wanton
+绝缘		cut off
+量器		measure
+禀告		report upwards
+释怀		let it go
+对决		face in battle
+火苗		tongue of fire
+学友		classmate
+困苦		deprivation
+虚度		waste (life)
+战术		tactic
+资财		asset
+独处		lonely (place)
+主次		priority
+排成		align into
+上册		Vol.1
+下册		Vol.2
+静音		mute; silent
+感慨		lament
+原鸽		rock pigeon
+出嫁		marry
+货品		goods
+巨量		a lot
+强韧		strong
+气囊		air bag
+越权		unauthorised
+拥戴		accept (leader)
+照常		as normal
+载入		written into (history etc)
+旁听		observe a class
+饮品		drink
+香皂		soap
+台上		on stage
+戒酒		avoid alcohol
+参天		towering
+口罩		mask (hygienic)
+千古		ancient
+皑皑		snow-white
+重创		injure
+星球		planet
+小驴		young donkey
+收留		take in (orphan)
+收看		watch (TV)
+上市		put on market
+人种		race; ethnicity
+全血		whole blood
+苦工		hard physical labour
+祭奠		sacrificial ceremony
+火海		conflagration
+化妆		put on makeup
+干裂		parched
+防暴		riot-prevention (squad)
+饭前		before eating
+传抄		copy by hand
+浅谈		brief chat
+切记		remember (to)
+抽取		collect; sample
+祠官		(Shinto) priest
+打理		keep neat (house etc)
+酒桶		wine barrel
+苦果		bad result
+宽泛		broad
+苦况		suffering
+谋取		scheme to gain
+球员		football player
+启齿		raise subject
+引流		divert (river)
+止血		stop bleeding
+择偶		choose spouse
+逍遥		free of responsibilities
+防疫		disease protection
+上奏		write to king
+死守		scrupulously observe
+婉言		careful words
+一己		own
+祖父		father's father
+一览		glimpse
+易怒		short temper
+美色		prettiness
+群山		mountains
+词根		root word
+粗话		foul (language)
+放声		call out
+顾家		family (man)
+歌喉		(one's) singing voice
+山岩		crag
+战神		war god
+攀越		cross (mountain etc)
+秽语		vulgar language
+前妻		ex-wife
+深山		distant mountains
+石缝		clefts of crags
+巨像		giant image
+误信		mistakenly believe
+死讯		death news
+哈哈		ha ha
+翻修		rennovate
+短剧		sketch; skit
+开篇		start of poem
+判案		judge
+铁钉		iron nail
+闰月		leap month
+情面		feelings; face
+收殓		gather for burial
+面谈		interview
+春分		spring equinox
+流向		flow to
+铜柱		copper pillar
+拆散		break (family etc)
+放胆		be bold
+决然		firmly (decide)
+茅草		thatch
+取材		draw from; get material
+万古		long ago
+引领		lead
+黯淡		bleak
+击碎		smash
+书脊		spine
+书页		page
+隐含		imply
+彻夜		all night
+对质		confront
+动身		set off
+小花		little flower
+婚前		before marriage
+推移		change
+强光		strong light
+参政		involved in politics
+打探		pry into; spy on
+旧账		old grudge
+奖励		reward
+实例		real-life example
+告密		inform (police etc)
+时态		(verb) tense
+精采		exciting
+出行		departure
+攻占		conquer
+雷鸣		thunder
+时速		per hour (speed)
+特赦		pardon (for crime)
+一流		elite
+翻看		look through (a book)
+心烦		irritating
+电铸		electroplating
+大发		strongly
+建基		basis
+顺遂		smoothly
+各异		each
+和善		kind
+入门		introductory course
+合上		close
+手持		in the hand
+撒网		throw a net
+迎敌		meet enemy
+冰封		frozen
+水气		water vapour
+堂堂		mighty
+饱餐		eat one's fill
+灭族		destroy a tribe/race
+耐劳		hardworking
+刚硬		unresponsive; stubborn
+投影		projection; cast (shadow)
+千金		treasure
+鱼线		fishing line
+主谋		evil adviser
+误诊		misdiagnosed
+不屑		see with contempt
+煤油灯		kerosene lamp
+折叠刀		pocket knife
+现代人		people of today
+两回事		two different things
+需求量		demand
+导师们		instructors
+靠得住		dependable
+诽谤者		slanderer
+废弃物		waste
+移民局		immigration office
+运动会		sports event
+乱葬岗		common grave
+假朋友		false friend
+民族史		ethnohistory
+学者们		scholars
+大丈夫		real men (macho)
+祈祷文		prayers (liturgical)
+入场费		admission fee
+性器官		genitals
+心肺机		heart-lung bypass machine
+完整版		full version
+人生观		outlook on life
+耳边风		counsel to ignore
+一天天		day to day
+上下班		commute
+保温箱		incubator
+车头灯		headlamp
+大萧条		Great Depression
+欢呼声		cheering
+姐姐们		sisters (older)
+检察官		public prosecutor
+居留权		residency
+来不及		no time
+冷冰冰		cold
+谋士们		advisors
+闹饥荒		famine
+排字机		Linotype
+亲戚们		relatives
+入口处		entrance
+杀伤力		weapon power
+西北部		NW part
+心里话		inner thoughts
+一刹那		moment
+一阵子		fit
+住宅区		residential area
+真面目		true nature
+主人公		main character
+醉醺醺		drunk
+安乐窝		cosy nest
+自由人		free person
+翻译机		translation device
+孤独感		loneliness
+脚步声		footstep sound
+土地税		land tax
+感染力		contagious (fig.)
+铸排机		typesetter
+大礼堂		auditorium
+玉米田		cornfield
+舍不得		sad to leave
+左上角		top left corner
+左下角		bottom left corner
+右上角		top right corner
+右下角		bottom right corner
+出发点		foundation; starting point
+收银员		cashier
+发行量		circulation (figures)
+绿油油		green (nature)
+安安稳稳		safe and sound
+雪上加霜		adding to problems
+养尊处优		cushioned life
+从早到晚		from morning until evening
+挺身而出		stand up (for sthg)
+吃吃喝喝		eat and drink
+以貌取人		choose ppl by appearances
+欢声雷动		thunderous cheering
+一厢情愿		wishful thinking
+满面笑容		all smiles
+夺眶而出		shed tears
+风平浪静		calm
+狼吞虎咽		devour
+至理名言		well-known proverb
+充耳不闻		refuse to listen
+德高望重		respected (of person)
+胡作非为		do bad crimes
+缺衣少食		lack clothes and food
+死里逃生		barely escape
+总而言之		in summary
+急转直下		turn worse
+非同凡响		incomparable
+措手不及		caught off guard
+分崩离析		break apart
+一走了之		leave (one's children etc)
+一字不漏		word for word
+五彩缤纷		glorious colour
+言行一致		fulfill one's word
+处心积虑		plan (carefully)
+明知故犯		deliberately break law
+一笔勾销		cancel
+一文不值		worthless
+自轻自贱		think nothing of ourselves
+耳熟能详		widely familiar
+一网打尽		trap them all
+自作主张		do on own initiative
+光辉灿烂		sparkling
+暴露无遗		reveal all
+忍饥挨饿		starve
+雪中送炭		coal in the snow; help when needed
+穷追不舍		in hot pursuit
+言出必行		fulfill one's word
+悲从中来		grieved
+不堪回首		shudder to recall
+重修旧好		reconcile
+满不在乎		careless
+改朝换代		change government
+齐心合力		work together
+殊途同归		different roads same result
+随随便便		casual
+丝毫不差		accurate
+有害无益		harmful
+罪恶滔天		crimes piled to heaven
+破土而出		sprout from the earth
+屡劝不改		unrepentant
+恰到好处		just right
+千变万化		diverse
+有说有笑		laugh and talk
+大吃一惊		surprise
+同流合污		fit in (to bad thing)
+痛不欲生		in grief
+随波逐流		drift on waves
+难分难解		inseparable
+国泰民安		peaceful (country etc)
+不苟言笑		serious
+重归于好		reconciled
+长年累月		for years
+宽宏大量		generous
+门禁森严		guarded gate
+破口大骂		shout abuse
+尸横遍野		strewn with corpses
+生死关头		life-threatening crisis
+四海一家		racial peace
+心力交瘁		exhausted
+洗心革面		clean up one's life
+罪有应得		punishable
+子子孙孙		offspring
+耿耿于怀		take on board
+印第安人		American Indian
+目不转睛		watch keenly
+纡尊降贵		stoop down
+坚不可摧		unbreakable
+一蹶不振		stumble and not get up
+孤立无援		alone and overwhelmed
+可不可以		can I?
+衣食住行		daily needs
+有条有理		systematic
+口口声声		say again and again
+一意孤行		insist on
+出人头地		make a name for oneself
+安然无事		all's well
+半信半疑		indecisive
+半真半假		half-true
+闭口不言		be silent
+不假思索		by rote; without thought
+不自量力		try things beyond oneself
+彻头彻尾		outright
+尘埃落定		dust settles
+出言不逊		insult
+大难临头		disastrous
+道听途说		hearsay
+独断独行		act arbitrarily
+低人一等		inferior
+火冒三丈		furious
+据为己有		take from others
+鞠躬尽瘁		expend oneself
+井然有序		orderly
+惊天动地		shake heaven and earth
+军事法庭		military court
+力不从心		have limitations
+历历在目		vividly recall
+冷言冷语		cold words
+默默无闻		obscure; unimportant
+目中无人		proud; arrogant
+念念不忘		focus on; keep in mind
+平安无事		safe and sound
+破破烂烂		tattered
+千篇一律		monotony
+千山万水		long journey
+千言万语		many words
+日日夜夜		day and night
+日以继夜		day and night
+事与愿违		not happen as would want
+生死攸关		life-and-death
+随遇而安		adapt
+素不相识		total stranger
+死而后已		even to death
+天壤之别		contrast sharply; sky apart from earth
+天灾人祸		disaster
+推崇备至		revere
+滔滔不绝		talk at length
+顽固不化		stubborn
+无法无天		unrighteous
+无情无义		merciless
+无依无靠		no one to rely on
+易如反掌		easy
+一丝不苟		meticulous
+一言一行		words and actions
+一望无际		broad; boundless
+有钱有势		prominent and wealthy
+有期徒刑		fixed-term imprisonment
+有血有肉		have flesh and blood
+一无所获		get nothing
+战无不胜		victorious
+再接再厉		work hard
+在所不惜		unflinching
+自告奋勇		volunteer (to fight etc)
+爱不释手		take real interest
+太皇太后		king's grandmother (status)
+没完没了		endless
+轻举妄动		rash
+全军覆没		army wiped out
+安分守己		quietist (non-political)
+如饥似渴		hunger for
+真相大白		truth was plain
+体无完肤		ruined
+西澳大利亚州		Western Australia
+阿尔茨海默病		Alzheimer's disease
+野山羊		wild goat
+监狱长		prison chief
+侍卫长		chief guard
+死刑犯		death-row convict
+天主教堂		Catholic church building
+盛极一时		currently popular
+暗无天日		dark
+太平盛世		peaceful times
+自助		self-help
+连线		connected (events etc)
+异想天开		use imagination
+天翻地覆		turn the world upside down
+翻天覆地		turn the world upside down
+丰衣足食		clothed and well-fed
+不远千里		300 miles isn't far (for this)
+不眠不休		work without sleep
+拖拖拉拉		slow
+载歌载舞		singing and dancing
+转眼之间		in a moment
+改头换面		change its face
+大获全胜		complete victory
+失而复得		lose and recover
+光明磊落		in the light
+我行我素		insist on own ways
+装订成册		bind
+一举一动		every act
+遥遥无期		far off
+危机四伏		perilous
+如获至宝		like getting treasure
+空空如也		empty
+针锋相对		fight each other
+情不自禁		can't stop
+长篇大论		long explanation
+称心如意		satisfied with life
+祸国殃民		woe to country and people
+平平安安		peaceful
+天方夜谭		far-fetched
+活字印刷		movable type
+男女老少		all kinds of people
+一扫而空		sweep away
+怨天尤人		resentful; blame everyone
+转瞬即逝		blink and it's gone
+风和日丽		beautiful day
+恩将仇报		repay bad for good
+大韩民国		R.O.Korea
+达官贵人		prominent people
+拔地而起		rise
+吃喝玩乐		frivolous partying etc
+随机应变		resourceful; acting on circumstances
+残奥会		Paralympics
+单程票		single ticket
+道路网		road network
+等高线		contour line
+跟不上		can't keep up
+排行榜		leaderboard
+调音台		console
+政治课		political theory classes
+中音号		tenor horn
+游击队		guerrillas
+表兄弟		cousin (male)
+欢迎会		reception
+赞美歌		song of praise
+遮阳		shade (from sun)
+帷幔		curtain
+内院		inner courtyard
+牧放		tend (to sheep)
+衣角		hem (of clothes)
+物业		maintenance
+饱尝		suffer; know fully
+鸡舍		coop
+防备		guard (ready)
+肌痛		muscle pain
+术士		occultist
+偷情		hidden love affair
+抱憾		regret
+木桩		wooden stake
+中期		midway (time)
+历久		constant; lasting
+落败		lost
+底色		undertone
+难产		difficult childbirth
+转角		street corner
+送葬		send off the dead
+痊愈		completely recover
+飞向		fly to
+水罐		water jar
+唯有		only
+大忙		big help
+词库		word bank
+声部		part
+压铸		pressure die casting
+银鸥		herring gull
+纸条		note
+木筏		raft
+关连		link
+隐患		hazard
+污渍		spot
+散居		disperse
+规律		consistent; regular
+飞逝		fly past
+接送		(give a) lift
+更正		fix
+打闹		beating
+仓房		storehouse
+觅食		forage for food
+美感		sense of beauty
+展翅		spreading out wings
+灾情		hit by disaster
+吱吱		brrp
+石屋		stone building
+狂奔		panic run
+有成		successful
+正轨		right track
+特长		special skill
+堂哥		older-brother cousin
+频发		frequent
+总长		high official
+遗骨		remains; bones
+侍立		minister; wait on
+平反		exonerate
+连带		involve
+须知		note
+兑现		fulfill
+存疑		have doubts
+祖传		handed down
+烟蒂		cigarette butt
+诉诸		appeal to; resort to
+泥地		mud
+余力		remaining strength
+大度		generous
+焦躁		impatient
+成瘾		get addicted; compulsive
+愤愤		resentful
+梳妆		fix up hair
+逼问		demandingly ask
+家财		possessions; wealth; estate
+残害		persecute; cruelly treat
+送出		give; send
+手边		convenient; available
+换班		change duty
+来潮		start up
+泥路		unpaved road
+背痛		back pain
+错怪		blame
+烈酒		alcohol
+酒瓶		wine vessel
+持家		hold home
+摊贩		stall; street market
+分寸		balance; restraint
+堂兄		cousin (older male)
+紧身		tight-fitting
+眺望		look out at (view)
+连贯		whole; coherent
+开设		open (business etc)
+离俗		separate from world
+追兵		army giving chase
+上供		bribe; sacrifice to dead etc
+飞驰		speed (by)
+应邀		accept invitation
+电线		wire
+后续		follow-up
+庆典		celebration
+考释		interpret (Bible etc)
+瞄准		aim of attack
+常客		regular customer
+详实		amply; fully
+烙饼		tortilla
+油费		fuel cost
+来路		origin
+混混		gangster
+铸成		cast (of metal)
+进修		take skills class; take extra class
+人迹		evidence of (human) living
+契合		in agreement
+露骨		prominent; normal; in the open
+炮弹		bomb
+骂阵		taunt in battle
+纸本		paper (edition)
+挥拳		shake fist
+小休		break; intermission
+凛冽		cold
+喧闹		noisy
+通行		through (travel)
+敌情		enemy's condition
+重兵		many soldiers
+应门		open door (to caller)
+烈日		blazing heat
+视野		view
+潇洒		handsome
+煮饭		cooking
+出轨		derail
+起步		start; get started
+谱写		compose
+放置		stand
+堆叠		stack
+写法		way of writing
+挽歌		dirge; mournful song
+宽裕		financially comfortable
+泡影		bubble; nothing
+公式化		going through the motions
+老太太		old lady
+老奶奶		old lady
+打交道		interact with (people)
+保证书		guarantee
+纪录片		documentary
+大半生		most of one's life
+外地人		visitor
+牲口棚		stable; cattle shed
+眼睁睁		open-eyed
+播音室		(broadcasting) studio
+过眼云烟		temporary; short-lived
+字里行间		in the words/lines
+宽大为怀		show mercy
+怒目而視		glower
+怒目而视		glower
+回心转意		reconsider
+精诚团结		become closely united
+滂沱大雨		heavy rain
+奄奄一息		half-dead
+因人而异		varies (between people)
+东躲西藏		hide in different places
+通风报信		inform; divulge
+自暴自弃		give up on oneself
+杀身之祸		lose life
+心狠手辣		cruel
+信誓旦旦		promise
+飘忽不定		drift about
+屡教不改		unrepentant
+一视同仁		treat impartially
+铸成大错		(make) big mistake
+牵线搭桥		matchmake; introduce
+迫不及待		can't wait
+罪大恶极		felonious
+追名逐利		pursue fame and fortune
+追名逐利		seek prominence
+见怪不怪		desensitised
+天差地远		far from it
+死于非命		die
+惊心动魄		dramatic
+无稽之谈		baseless claims
+大行其道		widely accepted
+安然无恙		survive; stay safe
+歌功颂德		eulogise
+雷电交加		thunder and lightning
+敷衍了事		go through the motions
+一技之长		skill
+女服务员		waitress
+惨不忍睹		mutilated unrecognisably
+面目全非		destroyed
+与日俱增		growing day by day
+迷途知返		turn around from bad course
+阿谀奉承		flatter
